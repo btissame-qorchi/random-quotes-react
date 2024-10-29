@@ -10,7 +10,10 @@ Random Quotes: Click the button to generate a new quote each time.
 
 To run this project locally, follow these steps:
 
-Clone the repository.
-Navigate to the project directory.
-Install the dependencies with npm install.
-Start the development server with npm start.
+  Clone the repository.
+  Navigate to the project directory.
+  Install the dependencies with npm install.
+  Start the development server with npm start.
+
+# Demo :
+https://btissame-qorchi.github.io/random-quotes-react/
