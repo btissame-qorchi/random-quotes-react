@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+}
+
+Body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+      font-family: "Open Sans", sans-serif;
+      background-color: #e6e6fa;
+
+}
+
+.quotes{
+    padding: 0 25px;
+    text-align: center;
+    button{
+        background: #6a5acd;
+        color: #fff;
+        border: 0;
+        font-size: 17px;
+        border-radius:10px;
+        padding: 10px 20px;
+        display: block;
+        cursor: pointer;
+        margin:20px auto 0 auto;
+    }
+    h2{
+        font-weight: 500;
+        color: #5f5f5f ;
+    }
+}
