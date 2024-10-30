@@ -14,7 +14,7 @@ Clone the repository.
 
 Install the dependencies with npm install.
 
-Start the development server with npm start.
+Start the development server with npm run dev.
 
 # Demo :
 https://btissame-qorchi.github.io/random-quotes-react/
